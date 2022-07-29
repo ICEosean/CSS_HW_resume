@@ -1,0 +1,16 @@
+body {
+    font: 16px 'microsoft yahei';
+}
+h1 {
+    text-align: center;
+}
+.green {
+    color: #008000;
+}
+.red {
+    color: #FF0000;
+    font-style: italic;
+}
+p {
+    text-indent: 2em;
+}
